@@ -88,3 +88,8 @@ form div input, form div textarea {
  border-radius: 0.5rem;
  font-size: 1rem;
 }
+
+.showImg{
+    width: 5rem;
+    height: 5rem;
+}

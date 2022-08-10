@@ -30,6 +30,10 @@
             @endforeach
         </div>
     </div>
+    <div>
+        <label for="img">Imagem</label>
+        <input type="file" name="imagem" id="img" accept="image/*" required>
+    </div>
     <button type="submit" class="button">Salvar</button>
 </form>
 
